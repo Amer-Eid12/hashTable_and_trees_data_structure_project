@@ -1,0 +1,99 @@
+Title: Movie Title1  
+Description: Description for Movie 1  
+Release Year: 2018  
+Rating: 7.54  
+
+Title: Movie Title2  
+Description: Description for Movie 2  
+Release Year: 2011  
+Rating: 8.62  
+
+Title: Movie Title3  
+Description: Description for Movie 3  
+Release Year: 2010  
+Rating: 2.37  
+
+Title: Movie Title4  
+Description: Description for Movie 4  
+Release Year: 2009  
+Rating: 6.78  
+
+Title: Movie Title5  
+Description: Description for Movie 5  
+Release Year: 2020  
+Rating: 2.10  
+
+Title: Movie Title6  
+Description: Description for Movie 6  
+Release Year: 2009  
+Rating: 3.08  
+
+Title: Movie Title7  
+Description: Description for Movie 7  
+Release Year: 2020  
+Rating: 7.90  
+
+Title: Movie Title8  
+Description: Description for Movie 8  
+Release Year: 2019  
+Rating: 8.50  
+
+Title: Movie Title9  
+Description: Description for Movie 9  
+Release Year: 2014  
+Rating: 9.17  
+
+Title: Movie Title10  
+Description: Description for Movie 10  
+Release Year: 2017  
+Rating: 8.75  
+
+Title: Movie Title11  
+Description: Description for Movie 11  
+Release Year: 2009  
+Rating: 2.11  
+
+Title: Movie Title12  
+Description: Description for Movie 12  
+Release Year: 2019  
+Rating: 9.93  
+
+Title: Movie Title13  
+Description: Description for Movie 13  
+Release Year: 2013  
+Rating: 5.79  
+
+Title: Movie Title14  
+Description: Description for Movie 14  
+Release Year: 2004  
+Rating: 9.57  
+
+Title: Movie Title15  
+Description: Description for Movie 15  
+Release Year: 2005  
+Rating: 4.67  
+
+Title: Movie Title16  
+Description: Description for Movie 16  
+Release Year: 2010  
+Rating: 4.55  
+
+Title: Movie Title17  
+Description: Description for Movie 17  
+Release Year: 2016  
+Rating: 9.54  
+
+Title: Movie Title18  
+Description: Description for Movie 18  
+Release Year: 2006  
+Rating: 0.93  
+
+Title: Movie Title19  
+Description: Description for Movie 19  
+Release Year: 2006  
+Rating: 8.63  
+
+Title: Movie Title20  
+Description: Description for Movie 20  
+Release Year: 2010  
+Rating: 5.28  
